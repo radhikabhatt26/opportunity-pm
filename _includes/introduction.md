@@ -10,14 +10,10 @@ This process is not one size fits all – it will look different depending on wh
 ### Think creatively about how to get involved. Here are some suggestions.###
 
 | TECH COMPANIES/STARTUPS/CIVIC TECH TEAMS | COMMUNITIES, LOCAL, AND STATE GOVERNMENTS 	| UNIVERSITIES/CODING SCHOOLS | ADVOCATES | FEDERAL AGENCIES |
-| -----------	| -----------	| -----------	| -----------	| -----------	|
+| 	| 	| 	| 	| 	|
 | Visualize data                                   	| Define challenges                         	| Convene stakeholders                                         	| Define a problem                               	| Identify agency priorities in need of a tech solution 	|
 | Identify digital solutions                       	| Engage local residents                    	| Incorporate Opportunity data into your curricula             	| Contribute expertise to inform design of tools 	| Contribute agency open data                           	|
 | Build a tool                                     	| Share your local expertise                	| Engage students across disciplines to design and build tools 	| Connect with users to provide feedback         	| Answer data questions                                 	|
 | Add new feature or new data to existing platform 	| Test and help improve tools               	|                                                              	|                                                	| Gain insight to improve your data                     	|
 | Add data to the Opportunity Project inventory    	| Add local or state data                   	|                                                              	|                                                	|                                                       	|
 | Join a community of practice   |        	|              	|              	|                                 | 
-
-
-
-

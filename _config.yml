@@ -1,6 +1,6 @@
 permalink: pretty
 highlighter: rouge
-url: https://danhammer.github.io/opportunity-pm/
+#url: https://danhammer.github.io/opportunity-pm/
 
 collections:
   - plays
